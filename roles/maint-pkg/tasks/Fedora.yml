@@ -1,0 +1,9 @@
+---
+- name: Update dnf cache
+  dnf:
+    update_cache: yes
+  changed_when: false
+
+- name: Upgrade packages
+  dnf:
+    upgrade: yes
