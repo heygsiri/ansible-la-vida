@@ -1,0 +1,9 @@
+---
+- name: Update pacman cache
+  pacman:
+    update_cache: yes
+  changed_when: false
+
+- name: Upgrade packages
+  pacman:
+    upgrade: yes

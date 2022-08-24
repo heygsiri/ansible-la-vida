@@ -1,0 +1,6 @@
+---
+- name: Maintenance
+  hosts: all
+  become: yes
+  roles:
+    - maint-pkg
