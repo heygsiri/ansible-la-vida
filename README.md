@@ -44,4 +44,4 @@ This is quite an opinionated setup. Expect breakages.
 - [ ] Refactor as needed
 
 # Why the name?
-(https://www.youtube.com/watch?v=rBR1nwYIFck)- [Here].
+[Here](https://www.youtube.com/watch?v=rBR1nwYIFck).
